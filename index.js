@@ -1,3 +1,4 @@
+// This script generates a random value along with a timestamp
 const name = "skinny";
 const timestamp = new Date().toISOString();
 const randomValue = Math.floor(Math.random() * 1000000);
